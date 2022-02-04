@@ -1,0 +1,22 @@
+{
+    "name": "royal-code",
+    "displayName": "Royal Code",
+    "description": "royal colors for royal code",
+    "version": "0.0.1",
+    "publisher": "Zarkhil",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Royal theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Royal theme-color-theme.json"
+            }
+        ]
+    }
+}
